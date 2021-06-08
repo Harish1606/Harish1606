@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish1606&label=Profile%20views&color=0e75b6&style=flat" alt="harish1606" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish1606" alt="harish1606" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5027649/screenshots/10972884/media/82312596b7efd5c9346d09b51d5bc964.jpg?compress=1&resize=1200x900">
 
 - 🔭 I’m currently working on [Cognizant Technology Solutions](https://www.cognizant.com/)
 
