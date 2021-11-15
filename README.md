@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish1606" alt="harish1606" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
-- 🔭 I’m currently working on [Cognizant Technology Solutions](https://www.cognizant.com/)
+- 🔭 I’m currently working on [Ford Motor Company](https://www.india.ford.com/)
 
-- 🌱 I’m currently learning **spring framework**
+- 🌱 I’m currently learning **spring boot microservices**
 
 - 👨‍💻 All of my projects are available at [https://harish-2k20.web.app/](https://harish-2k20.web.app/)
 
